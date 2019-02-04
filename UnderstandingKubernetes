@@ -21,3 +21,12 @@ pivot, stay loosely coupled with software, so that the sw doesn't even know that
 
 moving towards declaritave vs imperative
 
+raft-consensus algorithm
+
+https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/minikube
+
+https://www.katacoda.com/courses/kubernetes/networking-introduction
+
+minikube addons are helm chart equivalents
+
+
