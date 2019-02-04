@@ -11,3 +11,13 @@ container run time engine
 
 read: Large-scale cluster management at google with borg
 
+cloud native computing foundation
+
+open source version of openshift is okd
+
+read: kubernetes up & running - Kelsey Hightower
+
+pivot, stay loosely coupled with software, so that the sw doesn't even know that it's running in kubernetes
+
+moving towards declaritave vs imperative
+
