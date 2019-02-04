@@ -1,5 +1,7 @@
 Understanding Kubernetes Tutorial
 
+https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/71715
+
 katacoda.com
 
 jonathan.johnson@dijure.com
@@ -28,5 +30,14 @@ https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/minikube
 https://www.katacoda.com/courses/kubernetes/networking-introduction
 
 minikube addons are helm chart equivalents
+
+https://www.katacoda.com/courses/kubernetes/create-kubernetes-ingress-routes
+
+probes encourage good health, like liveness and readiness
+
+helm is a package manager
+
+https://www.katacoda.com/javajon/courses/kubernetes-applications/helm
+
 
 
